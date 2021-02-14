@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyDictionary", "MyDictionary\MyDictionary.csproj", "{331A1965-3585-42C4-BBAF-6FE420C35CCB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Deneme", "Deneme\Deneme.csproj", "{21A87E6A-5C3C-4D18-BAA8-3B2ED5198985}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Deneme2", "Deneme2\Deneme2.csproj", "{68B559C0-ECDE-41EA-A5F5-6FEACE38A1AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{331A1965-3585-42C4-BBAF-6FE420C35CCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{331A1965-3585-42C4-BBAF-6FE420C35CCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{331A1965-3585-42C4-BBAF-6FE420C35CCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{331A1965-3585-42C4-BBAF-6FE420C35CCB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21A87E6A-5C3C-4D18-BAA8-3B2ED5198985}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21A87E6A-5C3C-4D18-BAA8-3B2ED5198985}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21A87E6A-5C3C-4D18-BAA8-3B2ED5198985}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21A87E6A-5C3C-4D18-BAA8-3B2ED5198985}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68B559C0-ECDE-41EA-A5F5-6FEACE38A1AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68B559C0-ECDE-41EA-A5F5-6FEACE38A1AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68B559C0-ECDE-41EA-A5F5-6FEACE38A1AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68B559C0-ECDE-41EA-A5F5-6FEACE38A1AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2B927124-1F85-4FA0-B18D-3A38AAA8B1C5}
+	EndGlobalSection
+EndGlobal
